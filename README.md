@@ -9,3 +9,5 @@ test2
 Trying
 
 AGAIN
+
+yet again after the global config
